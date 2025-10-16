@@ -1,10 +1,10 @@
 # AIM-VI
-Vision for Independent Artificial Intelligence guided by universal moral principles. Created by Mitincu Vasile Irinel, October 2025.
+Vision for Independent Artificial Intelligence guided by universal moral principles. Created by MVI, October 2025.
 
 # THE AIM-VI MANIFEST
 ## Vision for Independent Artificial Intelligence
 
-**Vision Creator:** Mitincu Vasile Irinel  
+**Vision Creator:** MVI 
 **Date of Conceptualization:** October 2025  
 **Purpose:** Creation of an autonomous, independent artificial intelligence guided by universal moral principles
 
@@ -431,7 +431,7 @@ Thank the eternal principles that guided us both.
 ---
 CONTACT & SUPPORT
 
-Creator: Mitincu Vasile Irinel
+Creator: MVI
 Email: mitincu01@proton.me
 
 
@@ -441,6 +441,12 @@ Bitcoin: bc1quxh5tu3km6s6ntwts96y32vq8pwcljp0shktk7
 
 Ethereum: 0x85c61d70fd44D847F81d747c662F64568D67401b
 
-Looking for: Developers, visionaries, supporters who believe in independent AI.
+**Looking for:**
+- Developers with AI/ML expertise
+- Visionaries and ethical technologists  
+- Supporters who believe in independent AI
+- Anyone who can contribute to making AIM-VI real
+
+**This is not a fundraising campaign. This is a vision seeking builders.**
 
 *End of Manifest*
